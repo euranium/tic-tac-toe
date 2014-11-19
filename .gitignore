@@ -1,3 +1,6 @@
 #ignore java compile files
 *.class
 *.swp
+*.swo
+*.swm
+*.swl
